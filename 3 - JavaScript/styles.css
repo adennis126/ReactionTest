@@ -1,0 +1,16 @@
+    body{
+        font-family: Verdana, Geneva, sans-serif;
+    }
+    
+    #area{
+        width: 1000px;
+        height: 600px;
+        border: 2px solid blue;
+    }
+
+    #box{
+        height: 200px;
+        width: 200px;
+        display: none;
+        position:relative;
+    }
